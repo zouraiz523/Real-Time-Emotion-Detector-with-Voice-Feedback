@@ -1,8 +1,4 @@
 # Real-Time-Emotion-Detector-with-Voice-Feedback
-Real-Time Emotion Detector with Voice Feedback
-
-
-# Real-Time Emotion Detector with Voice Feedback
 
 This project is a real-time emotion detection system that captures emotions through your webcam, recognizes various facial expressions (like happy, sad, angry, etc.), and speaks out the detected emotion using text-to-speech.
 
