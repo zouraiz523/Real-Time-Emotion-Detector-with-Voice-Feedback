@@ -72,12 +72,6 @@ pip install opencv-python fer pyttsx3 tensorflow
 └── requirements.txt        # List of required dependencies
 ```
 
-## Screenshots
-
-| Happy Detected | Sad Detected |
-| --- | --- |
-| ![Happy Emotion](screenshots/happy.png) | ![Sad Emotion](screenshots/sad.png) |
-
 ## Potential Improvements
 
 - Add support for more emotions by using advanced machine learning models.
