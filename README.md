@@ -12,7 +12,7 @@ This project is a real-time emotion detection system that captures emotions thro
 ## Demo
 
 ![Emotion Detector Demo](demo.gif)  
-*An example of detecting and speaking emotions in real-time.*
+*example of detecting and speaking emotions in real-time.*
 
 ## Prerequisites
 
